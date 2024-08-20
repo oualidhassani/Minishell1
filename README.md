@@ -108,9 +108,3 @@ minishell/
 ├── Makefile
 ├── README.md
 ```
-
-## Contact Information
-
-- **Email:** [khalilsohail24@gmail.com](mailto:khalilsohail24@gmail.com)
-- **Discord:** khalil_sohail
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/khalil-sohail-5260892b8/)
